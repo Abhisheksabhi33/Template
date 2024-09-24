@@ -1,6 +1,4 @@
-Here’s the entire README content in code format:
 
-```markdown
 # Frontend Webpage with React and Tailwind CSS
 
 ## Overview
@@ -53,7 +51,7 @@ To run the app in development mode, use the following command:
 
 ```bash
 npm start
-```
+
 
 This will start the development server and open the app in your default browser.
 
