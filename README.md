@@ -89,5 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [React](https://reactjs.org/) - The web framework used
 - [Tailwind CSS](https://tailwindcss.com/) - The CSS framework used
-```
-
